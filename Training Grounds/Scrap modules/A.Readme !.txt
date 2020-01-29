@@ -1,0 +1,4 @@
+Dessa moduler är enbart experimentation utav funktioner jag hittat på nätet, 
+som jag sedan försökt implentera på mitt sätt, därefter förbättra.
+
+Enbart för att lära mig, kaos och "skräp" (rester) garanteras. 
